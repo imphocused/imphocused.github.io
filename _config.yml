@@ -30,7 +30,7 @@ markdown: kramdown
 highlighter: rouge
 
 plugins:
--jekyll-redirect-from
+  - jekyll-redirect-from
 
 kramdown:
   # use Github Flavored Markdown

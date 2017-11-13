@@ -29,6 +29,9 @@ permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
 
+plugins:
+-jekyll-redirect-from
+
 kramdown:
   # use Github Flavored Markdown
   input: GFM
